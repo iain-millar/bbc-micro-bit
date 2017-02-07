@@ -1,7 +1,7 @@
 Basic Input Example
 -------------------
 
-This script makes use of the simplest input triggers and updates the display to show input is recognised.
+This script makes use of the simplest input triggers and updates the display to show input is recognised. It can be uploaded and edited at https://pxt.microbit.org/
 
 A - Show 'A'
 B - Show compass direction (East, West, North or South) - this may show the calibration tasks first.
